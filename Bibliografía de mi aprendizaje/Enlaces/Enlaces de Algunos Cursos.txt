@@ -1,0 +1,21 @@
+---------------------------------------------------- :: CURSOS DE ESPECIALISTAS :: ----------------------------------------------------
+
+Curso de Algoritmos de Machine Learning:
+https://github.com/joanby/machinelearning-az/tree/master
+
+Diplomado Avanzado de Aprendizaje Reforzado:
+https://github.com/AprendizajeProfundo/Diplomado-Avanzado/blob/main/Aprendizaje%20Reforzado/Cuadernos/ar_QLearning.ipynb
+
+Mini curso de Redes neuronales:
+https://www.freecodecamp.org/learn/machine-learning-with-python/tensorflow/core-learning-algorithms-working-with-data
+
+Curso inicial de algoritmos de machine learning:
+https://www.aprendemachinelearning.com/principales-algoritmos-usados-en-machine-learning/?authuser=2
+
+---------------------------------------------------- :: LIBROS DIGITALES :: ----------------------------------------------------
+
+1. Jhon E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman, Teoría de Autómatas Lenguajes y Computación, Addison Wesley.
+
+2. Proyecto LATIn, Inteligencia Artificial, aLFA.
+
+3. Severiano Fernández, Galán Jesús González Boticario, José Mira Mira, Problemas Resueltos de Inteligencia Artificial Aplicada Búsqueda y Representación. 

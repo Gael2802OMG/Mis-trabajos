@@ -1,0 +1,6 @@
+.idea/
+.ipynb_checkpoints/
+solution/
+tmp*
+models/
+Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/

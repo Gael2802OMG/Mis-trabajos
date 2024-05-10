@@ -1,0 +1,8 @@
+
+---------------------------------------------------- :: LIBROS DIGITALES :: ----------------------------------------------------
+
+1. Jhon E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman, Teoría de Autómatas Lenguajes y Computación, Addison Wesley.
+
+2. Proyecto LATIn, Inteligencia Artificial, aLFA.
+
+3. Severiano Fernández, Galán Jesús González Boticario, José Mira Mira, Problemas Resueltos de Inteligencia Artificial Aplicada Búsqueda y Representación. 
